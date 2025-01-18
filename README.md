@@ -15,3 +15,6 @@ https://developer.android.com/codelabs/jetpack-compose-state
 #### Theme your app with Material Design 3
 ThemingCodelab
 https://developer.android.com/codelabs/jetpack-compose-theming
+#### Animating elements in Jetpack Compose
+AnimationCodelab
+https://developer.android.com/codelabs/jetpack-compose-animation
